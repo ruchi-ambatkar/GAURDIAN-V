@@ -1,0 +1,7 @@
+{
+  "name": "Guardian-V",
+  "description": "High-assurance AI-native document verification platform with deepfake detection and logic validation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
